@@ -1,0 +1,1 @@
+NeuralNet.ipynb is the main file, the ModelOptimization.ipynb includes grid searches performed to find optimal values.
