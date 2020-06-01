@@ -1,2 +1,2 @@
 # Machine-Learnining
-Neural Network on Epileptic Seizures
+Predicting Epileptic Seizures based on branwave scans
